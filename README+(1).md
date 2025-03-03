@@ -42,4 +42,4 @@ numpy
 
 
 ## Contact
-Created by [] - feel free to contact me!
+Created by [@Manu42204]-Manish kumar - feel free to contact me!
